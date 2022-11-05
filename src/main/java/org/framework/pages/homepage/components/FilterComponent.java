@@ -1,6 +1,6 @@
 package org.framework.pages.homepage.components;
 
-import org.framework.core.BasePage;
+import org.framework.pages.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

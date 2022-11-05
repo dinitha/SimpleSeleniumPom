@@ -1,4 +1,4 @@
-package org.framework.core;
+package org.framework.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -14,8 +14,6 @@ import java.util.Set;
 
 
 public class BasePage {
-
-
     private final Duration TIMEOUT = Duration.ofSeconds(10);
 
     public WebDriver driver;

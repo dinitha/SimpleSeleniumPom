@@ -1,7 +1,6 @@
 package org.framework.pages;
 
 
-import org.framework.core.BasePage;
 import org.framework.utils.propertyreader.PropertyReader;
 import org.framework.pages.homepage.components.FilterComponent;
 import org.framework.pages.homepage.components.TVAudioAndCameraComponent;
